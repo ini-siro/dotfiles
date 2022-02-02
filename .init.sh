@@ -5,6 +5,7 @@
 brew update
 brew upgrade
 brew cleanup
+brew tap Homebrew/bundle
 
 # get this dotfiles repository
 brew install ghq

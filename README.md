@@ -1,6 +1,6 @@
 # Easy Install
 ```
-$ curl -O https://raw.githubusercontent.com/ini-siro/dotfiles/master/install.sh
+$ curl -O https://raw.githubusercontent.com/ini-siro/dotfiles/main/.init.sh
 
-$ bash install.sh
+$ bash .init.sh
 ```
